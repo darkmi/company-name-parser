@@ -1,0 +1,5 @@
+com\darkmi\App.class
+com\darkmi\parser\CompanyName.class
+com\darkmi\parser\CompanyNameParser.class
+com\darkmi\parser\Token.class
+com\darkmi\parser\ParserTest.class
